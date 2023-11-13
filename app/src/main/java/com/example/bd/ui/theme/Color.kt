@@ -1,4 +1,4 @@
-package com.example.mvvmexample.ui.theme
+package com.example.bd.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
